@@ -16,16 +16,27 @@ h2 {
 	font-size: 1.3em;
 }
 
-.guarantee {
+.guarantee{
   border-color:        white;
   border-width:        1px;
   border-style:        dashed;
+	border-style: groove;
+	border-width: medium;
+	border-color: rgb(0,255,0);
+	border-top-color:black ;
+	border-bottom-style:dashed ;
+	border-left-width:thick ;
+	border-radius: 15px;
+	border-right:3em ;
   background-color:    #a7cece;
   padding:             25px; 
   margin:              30px; 
 	background-image: url(images/background.gif);
 	background-repeat: no-repeat;
-	background-position: top left; /* 新增外边距 */
+	background-position: top left;
+	padding: 25px;
+	padding-left: 80px;
+	margin-right: 250px;
 }
 
 html {
