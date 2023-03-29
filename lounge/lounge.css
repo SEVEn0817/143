@@ -16,18 +16,17 @@ h2 {
 	font-size: 1.3em;
 }
 
-.guarantee{
-  border-color:        white;
-  border-width:        1px;
-  border-style:        dashed;
-	border-style: groove;
+#guarantee{
+  border-color:white;
+  border-width:1px;
+  border-style:dashed;
 	border-width: medium;
-	border-color: rgb(0,255,0);
-	border-top-color:black ;
+	border-color: rgb(110, 179, 110);
+	border-top-color:rgb(197, 156, 156) ;
 	border-bottom-style:dashed ;
 	border-left-width:thick ;
 	border-radius: 15px;
-	border-right:3em ;
+	border-top-right-radius:1.5em ;
   background-color:    #a7cece;
   padding:             25px; 
   margin:              30px; 
