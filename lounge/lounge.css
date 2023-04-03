@@ -73,3 +73,21 @@ div>h3{
 	line-height: normal;
 	margin-top: 30px;
 }
+
+.cd{
+  font-style: italic;
+}
+.artist{
+	font-weight: bold;
+}
+
+.elixirs a:link{
+	color: #007e7e;
+}
+.elixirs a:visited{
+	color: #333333;
+}
+.elixirs a{
+  background: #f88396;
+  color: #0d5353;
+}
