@@ -91,3 +91,14 @@ div>h3{
   background: #f88396;
   color: #0d5353;
 }
+
+
+p{
+	background-color: #e9e6e7;
+}
+p #iname{
+	background-color: rgb(85, 84, 83);
+}
+p .cname{
+	background-color: #485c5c;
+}
