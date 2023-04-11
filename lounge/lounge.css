@@ -58,6 +58,7 @@ html {
 	background-repeat: repeat-x;
 	text-align: center;
 	line-height: 1em;
+	float:right;
 }
 
 div>h2{
@@ -94,7 +95,7 @@ div>h3{
 
 
 p{
-	background-color: #e9e6e7;
+	background-color: #f5f3f4;
 }
 p #iname{
 	background-color: rgb(85, 84, 83);
