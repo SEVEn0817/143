@@ -17,6 +17,9 @@ body {
   padding:          15px;
   margin:           0px 330px 10px 10px;
   /*margin-right:     300px;*/
+  position:         relative; 
+  top:              0px;
+  left:             200px;
 }
 
 .sidebar {
@@ -26,7 +29,7 @@ body {
   margin:           0px 10px 10px 10px;
   width:            280px;
   /*float:            right;*/
-  /*position:         absolute;定位/绝对*/
+  position:         absolute;/*定位/绝对*/
   top:              100px;
   right:            200px;
   width:            280px;
