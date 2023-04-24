@@ -9,7 +9,6 @@ body {
   background-color: #675c47;
   margin:           10px;
   height:           108px;
-  float:            right;
 }
 
 .main {
@@ -17,8 +16,8 @@ body {
   font-size:        105%;
   padding:          15px;
   /* margin:           0px 10px 10px 10px; */
-  display: table-cell;
-  vertical-align: top;  /* 垂直对齐: 顶端对齐 */
+  display:          table-cell;
+  vertical-align:   top;  /* 垂直对齐: 顶端对齐 */
 }
 
 .sidebar {
@@ -26,8 +25,8 @@ body {
   font-size:        105%;
   padding:          15px;
   /* margin:           0px 10px 10px 10px; */
-  display: table-cell;
-  vertical-align: top;
+  display:          table-cell;
+  vertical-align:   top;
 }
 
 .footer {
@@ -78,6 +77,21 @@ div.talbeRow {
     display:       table-cell;
     vertical-align: top;
 }
+
+.sprite-container {
+    width: 50%; /* 显示的宽度为图片一半 */ 
+    height: 100%; /* 图片高度 */
+    overflow: hidden; /* 隐藏溢出部分 */ 
+    background-image: url('img_navsprites.gif');
+}
+.header-logo {
+	background-position: 0px 0px; /* 没有任何偏移 */
+}
+
+.header-slogan {
+	background-position: -400px 0px; /* 向左偏移 */
+}
+
 
 
 
