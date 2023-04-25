@@ -101,16 +101,23 @@ div.talbeRow {
   position: absolute;
   top: 30px;
   left: 45%;
+  transition:left 0.5s ease;
+  size: 20ch;
 }
 
 .coupon{
   position: fixed;
-  top: -3px;
-  left: 300px;
+  top: 350px;
+  left: -210px; /* 初始位置在左侧 */ 
+	transition: left 5s ease; /* 添加过渡效果 */
 }
 
 .coupon a,img{
   border: none;
+}
+
+.coupon:hover{
+  left: 0px;
 }
 
 
