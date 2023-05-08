@@ -101,8 +101,11 @@ div.talbeRow {
   position: absolute;
   top: 30px;
   left: 45%;
-  transition:left 0.5s ease;
-  size: 20ch;
+  transition:all 5s ease;
+}
+
+.award:hover{
+  all: 3.5px;
 }
 
 .coupon{
