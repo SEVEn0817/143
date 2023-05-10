@@ -11,7 +11,7 @@ body {
   height:           108px;
 }
 
-.main {
+.main,.blog {
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
   padding:          15px;
@@ -123,6 +123,28 @@ div.talbeRow {
   left: 0px;
 }
 
+ul{
+  margin: 0px;
+  list-style-type: none;
+  padding: 5px 0px 5px 0px
+}
+ul li{
+  display:inline;
+  padding: 5px 10px 5px 10px;
+}
+ul li a:link,nav ul li a:visited{
+  color: #954b4b;
+  border-bottom: none;
+  font-weight: bold;
+}
+ul li.selested{
+  background-color: #c8b99c;
+}
+nav ul{
+  margin: 0px;
+  list-style-type: none;
+  padding: 5px 0px 5px 0px;
+}
 
 
 
