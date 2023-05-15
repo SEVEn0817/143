@@ -11,17 +11,27 @@
   height:100%;
   min-width: 1000px;
   z-index:-10;
-  zoom: 1;
-  background-color: #fff;
-  background: url(photos/footimg.jpg);
+  background: #9a9898 url(photos/footimg.png);
   background-repeat: no-repeat;
   background-size: cover;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
   background-position: center 0;
 }
+
 .kakko{
-  display: inline-block;
-  padding:0 1.5em;
+  height: auto;
+  width: auto;
+  z-index: 10;
+  text-align: center;
+  color: #fff;
   position: relative;
+  top: 200;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  font-weight: lighter;
+  font-size:3em;
+  font-family: "A1明朝", Arial, Helvetica, sans-serif;
 }
+
+
