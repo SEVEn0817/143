@@ -15,6 +15,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center 0;
+
 }
 
 .kakko{
@@ -25,19 +26,66 @@
   color: #fff;
   position: relative;
   top: 80px;
-  right: 58.5px;
+  right: 42px;
   margin: auto;
   font-weight: lighter;
-  font-size:1em;
+  font-size:1.12em;
   font-family: "A1明朝", YuMincho, "ヒラギノ明朝 ProN W3", serif;
 }
 
-.footlead{
-  position: relative;
-  top: 120px;
-  left: -40px;
-  right: 25px;
-  text-align: center;
-
+.writing{
+  margin-top: 150px;
+  margin-left: 12px;
+  font-weight: lighter;
+}
+.writing1{
+  font-size: 30px;
+  width: 1.5px;
+  color: #fff;
+  display: inline-block;
+  margin-left: 640px;
+  margin-top: -30px;
+  border-right: 4px solid #fff ;
+  padding-right: 50px;
+  font-family: "A1明朝", YuMincho, "ヒラギノ明朝 ProN W3", serif;
+}
+.writing2{
+  font-size: 28px;
+  width: 1.5px;
+  color: #fff;
+  display: inline-block;
+  margin-left: 20px;
+  font-family: "A1明朝", YuMincho, "ヒラギノ明朝 ProN W3", serif;
+}
+.writing3{
+  font-size: 30px;
+  width: 1.5px;
+  color: #fff;
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: -30px;
+  border-left: 4px solid #fff;
+  padding-left: 20px;
+  font-family: "A1明朝", YuMincho, "ヒラギノ明朝 ProN W3", serif;
 }
 
+.logo{
+  margin-left: 685px;
+  margin-top: 16px;
+}
+.p1{
+  display: inline-block;
+  opacity: 1;
+}
+.p2{
+  display: inline-block;
+  margin-left: -136px;
+  opacity: 0;
+}
+
+.wenzi{
+  color: #fff;
+  margin-top: 10px;
+  margin-left: 570px;
+  font-size: 1.5em;
+}
