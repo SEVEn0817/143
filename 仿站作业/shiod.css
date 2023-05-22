@@ -26,11 +26,11 @@
   color: #fff;
   position: relative;
   top: 80px;
-  right: 42px;
+  right: 46px;
   margin: auto;
   font-weight: lighter;
   font-size:1.12em;
-  font-family: "A1明朝", YuMincho, "ヒラギノ明朝 ProN W3", serif;
+  font-family: "A1明朝",Arial, YuMincho, "ヒラギノ明朝 ProN W3", serif;
 }
 
 .writing{
@@ -47,7 +47,7 @@
   margin-top: -30px;
   border-right: 4px solid #fff ;
   padding-right: 50px;
-  font-family: "A1明朝", YuMincho, "ヒラギノ明朝 ProN W3", serif;
+  font-family: "A1明朝",Arial, YuMincho, "ヒラギノ明朝 ProN W3", serif;
 }
 .writing2{
   font-size: 28px;
@@ -55,7 +55,7 @@
   color: #fff;
   display: inline-block;
   margin-left: 20px;
-  font-family: "A1明朝", YuMincho, "ヒラギノ明朝 ProN W3", serif;
+font-family: "A1明朝",Arial, YuMincho, "ヒラギノ明朝 ProN W3", serif;
 }
 .writing3{
   font-size: 30px;
@@ -66,26 +66,40 @@
   margin-top: -30px;
   border-left: 4px solid #fff;
   padding-left: 20px;
-  font-family: "A1明朝", YuMincho, "ヒラギノ明朝 ProN W3", serif;
+  font-family: "A1明朝",Arial, YuMincho, "ヒラギノ明朝 ProN W3", serif;
 }
 
-.logo{
+.picture0{
+  width: 120px;
+  height: 120px;
+  margin-top:15px;
   margin-left: 685px;
-  margin-top: 16px;
+  background-image: url(../仿站作业/photos/51.png);
 }
-.p1{
-  display: inline-block;
-  opacity: 1;
-}
-.p2{
-  display: inline-block;
-  margin-left: -136px;
-  opacity: 0;
+.picture0:hover{
+  background-image: url(../仿站作业/photos/52.png);
 }
 
 .wenzi{
   color: #fff;
-  margin-top: 10px;
-  margin-left: 570px;
+  margin-top: 13px;
+  margin-left: 650px;
   font-size: 1.5em;
+  font-weight: lighter;
+  font-family: serif;
+}
+
+.phone{
+  color: #fff;
+  margin-left: 648px;
+  margin-top: 45px;
+  font-size: 25px;
+  font-weight: lighter;
+  font-family: serif;
+}
+.phone a:link {
+  text-decoration-line: none;
+}
+.phone a:visited {
+  color: #fff;
 }
