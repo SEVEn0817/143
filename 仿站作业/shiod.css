@@ -26,16 +26,16 @@
   color: #fff;
   position: relative;
   top: 80px;
-  right: 46px;
+  right: 34.8px;
   margin: auto;
   font-weight: lighter;
   font-size:1.12em;
-  font-family: "A1明朝",Arial, YuMincho, "ヒラギノ明朝 ProN W3", serif;
+  font-family: "A1明朝",Arial,"ヒラギノ明朝 ProN W3", serif;
 }
 
 .writing{
-  margin-top: 150px;
-  margin-left: 12px;
+  margin-top: 130px;
+  margin-left: 13.5px;
   font-weight: lighter;
 }
 .writing1{
@@ -47,7 +47,7 @@
   margin-top: -30px;
   border-right: 4px solid #fff ;
   padding-right: 50px;
-  font-family: "A1明朝",Arial, YuMincho, "ヒラギノ明朝 ProN W3", serif;
+  font-family: "A1明朝",Arial,"ヒラギノ明朝 ProN W3", serif;
 }
 .writing2{
   font-size: 28px;
@@ -55,7 +55,7 @@
   color: #fff;
   display: inline-block;
   margin-left: 20px;
-font-family: "A1明朝",Arial, YuMincho, "ヒラギノ明朝 ProN W3", serif;
+  font-family: "A1明朝",Arial,"ヒラギノ明朝 ProN W3", serif;
 }
 .writing3{
   font-size: 30px;
@@ -66,7 +66,7 @@ font-family: "A1明朝",Arial, YuMincho, "ヒラギノ明朝 ProN W3", serif;
   margin-top: -30px;
   border-left: 4px solid #fff;
   padding-left: 20px;
-  font-family: "A1明朝",Arial, YuMincho, "ヒラギノ明朝 ProN W3", serif;
+  font-family: "A1明朝",Arial,"ヒラギノ明朝 ProN W3", serif;
 }
 
 .picture0{
@@ -91,9 +91,9 @@ font-family: "A1明朝",Arial, YuMincho, "ヒラギノ明朝 ProN W3", serif;
 
 .phone{
   color: #fff;
-  margin-left: 648px;
+  margin-left: 653px;
   margin-top: 45px;
-  font-size: 25px;
+  font-size: 22px;
   font-weight: lighter;
   font-family: serif;
 }
@@ -103,3 +103,66 @@ font-family: "A1明朝",Arial, YuMincho, "ヒラギノ明朝 ProN W3", serif;
 .phone a:visited {
   color: #fff;
 }
+
+.lianjie01{
+  display: inline-block;
+  margin-top: 25px;
+  margin-left: 458px;
+  padding-top: 8px;
+  padding-left: 18px;
+  color: #fff;
+  font-size: 20px;
+  font-family: "A1明朝",Arial, "ヒラギノ明朝 ProN W3", serif;
+  border: 1px solid #fff;
+  width: 280px;
+  height: 52px;
+  border-radius: 5px;
+  background-color:transparent;
+}
+.cube a:hover .lianjie01 {
+  background-color: #fff;
+  color: #006d80;
+}
+
+.lianjie02{
+  display: inline-block;
+  margin-top: 25px;
+  margin-left:20px;
+  padding-top: 8px;
+  padding-left:50px;
+  color: #fff;
+  font-size: 20px;
+  font-family: "A1明朝",Arial,"ヒラギノ明朝 ProN W3", serif;
+  border: 1px solid #fff;
+  width: 300px;
+  height: 52px;
+  border-radius: 5px;
+  background-color:transparent;
+}
+.cube a:hover .lianjie02 {
+  background-color: #fff;
+  color: #006d80;
+}
+
+.write1{
+  display: inline-block;
+  margin-left: 600px;
+  margin-top: 40px;
+  color: #fff;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.write2{
+  display: inline-block;
+  margin-left: 680px;
+  margin-top: 10px;
+  color: #fff;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.write3{
+  display: inline-block;
+  margin-left: 690px;
+  margin-top: 10px;
+  color: #fff;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
